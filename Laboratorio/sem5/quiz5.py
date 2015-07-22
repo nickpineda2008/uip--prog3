@@ -23,4 +23,4 @@ while opcion != "4":
 				del lista [eliminar]
 		if opcion == "3":
 				print(lista)
-input()
+input ()
